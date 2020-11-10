@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9FE221BA2559A489009BAB66 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE221B92559A489009BAB66 /* WeatherButton.swift */; };
 		9FEB96992554F1CD003CB60F /* SeanAllenSwiftUIWeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEB96982554F1CD003CB60F /* SeanAllenSwiftUIWeatherApp.swift */; };
 		9FEB969B2554F1CD003CB60F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FEB969A2554F1CD003CB60F /* ContentView.swift */; };
 		9FEB969D2554F1CE003CB60F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FEB969C2554F1CE003CB60F /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9FE221B92559A489009BAB66 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 		9FEB96952554F1CD003CB60F /* SeanAllenSwiftUIWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeanAllenSwiftUIWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FEB96982554F1CD003CB60F /* SeanAllenSwiftUIWeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeanAllenSwiftUIWeatherApp.swift; sourceTree = "<group>"; };
 		9FEB969A2554F1CD003CB60F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				9FEB96982554F1CD003CB60F /* SeanAllenSwiftUIWeatherApp.swift */,
 				9FEB969A2554F1CD003CB60F /* ContentView.swift */,
+				9FE221B92559A489009BAB66 /* WeatherButton.swift */,
 				9FEB969C2554F1CE003CB60F /* Assets.xcassets */,
 				9FEB96A12554F1CE003CB60F /* Info.plist */,
 				9FEB969E2554F1CE003CB60F /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				9FEB969B2554F1CD003CB60F /* ContentView.swift in Sources */,
 				9FEB96992554F1CD003CB60F /* SeanAllenSwiftUIWeatherApp.swift in Sources */,
+				9FE221BA2559A489009BAB66 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
